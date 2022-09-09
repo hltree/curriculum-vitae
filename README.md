@@ -88,6 +88,7 @@ Last updated: 2022.06.13.Mon
 - 保有資格
   - [Pythonエンジニア基礎試験](https://www.pythonic-exam.com/exam/basic)
   - [PHP7初級試験](https://www.phpexam.jp/summary/novice7/)
+  - [ウェブ・セキュリティ基礎試験(徳丸基礎試験）](https://www.phpexam.jp/tokumarubasic/)
 - そのほか活動など
   - Shopifyコミュニティへの貢献（質問に対する回答など）
   - PHP系のCMSへのイシュー、コミットなど（気になったところなど投げてます）
