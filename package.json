@@ -2,7 +2,10 @@
   "name": "curriculum-vitae",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:hltree/curriculum-vitae.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hltree/curriculum-vitae.git"
+  },
   "author": "hltree <35206336+hltree@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
@@ -13,5 +16,10 @@
   },
   "dependencies": {
     "gh-pages": "^3.1.0"
-  }
+  },
+  "description": "Last updated: 2022.06.13.Mon",
+  "bugs": {
+    "url": "https://github.com/hltree/curriculum-vitae/issues"
+  },
+  "homepage": "https://github.com/hltree/curriculum-vitae#readme"
 }
